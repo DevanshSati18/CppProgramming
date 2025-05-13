@@ -1,0 +1,86 @@
+cpp_dsa_learning/
+│
+├── 00_basics/
+│   ├── hello_world.cpp
+│   ├── variables.cpp
+│   ├── datatypes.cpp
+│   ├── input_output.cpp
+│   ├── operators.cpp
+│   └── comments.cpp
+│
+├── 01_control_flow/
+│   ├── if_else.cpp
+│   ├── switch_case.cpp
+│   ├── loops.cpp
+│   └── nested_loops.cpp
+│
+├── 02_functions/
+│   ├── functions_basics.cpp
+│   ├── default_arguments.cpp
+│   ├── function_overloading.cpp
+│   └── recursion.cpp
+│
+├── 03_arrays_strings/
+│   ├── arrays_intro.cpp
+│   ├── multidim_arrays.cpp
+│   ├── strings_basics.cpp
+│   └── string_functions.cpp
+│
+├── 04_pointers_references/
+│   ├── pointers_basics.cpp
+│   ├── pointers_arrays.cpp
+│   ├── references.cpp
+│   └── dynamic_memory.cpp
+│
+├── 05_object_oriented/
+│   ├── classes_objects.cpp
+│   ├── constructors.cpp
+│   ├── destructors.cpp
+│   ├── inheritance.cpp
+│   ├── polymorphism.cpp
+│   ├── encapsulation.cpp
+│   └── operator_overloading.cpp
+│
+├── 06_stl/
+│   ├── vector.cpp
+│   ├── map.cpp
+│   ├── set.cpp
+│   ├── stack.cpp
+│   ├── queue.cpp
+│   ├── priority_queue.cpp
+│   ├── list.cpp
+│   └── algorithms.cpp
+│
+├── 07_file_handling/
+│   ├── file_read_write.cpp
+│   ├── file_append.cpp
+│   └── file_with_objects.cpp
+│
+├── 08_templates_exceptions/
+│   ├── function_templates.cpp
+│   ├── class_templates.cpp
+│   └── exceptions.cpp
+│
+├── 09_dsa_basics/
+│   ├── time_space_complexity.md
+│   ├── arrays/
+│   ├── strings/
+│   ├── recursion_backtracking/
+│   ├── searching_sorting/
+│   ├── linked_list/
+│   ├── stacks_queues/
+│   ├── trees/
+│   ├── graphs/
+│   ├── heaps/
+│   ├── hashing/
+│   ├── dp/
+│   └── greedy/
+│
+├── 10_interview_questions/
+│   ├── amazon/
+│   ├── google/
+│   ├── microsoft/
+│   └── misc/
+│
+├── README.md
+└── Makefile (optional for compilation automation)
